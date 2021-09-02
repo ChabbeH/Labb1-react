@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "rn-react-labb1",
+    "slug": "rn-react-labb1",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "rn-react-labb1"
+}
